@@ -605,7 +605,3 @@ The top-level message sent from the time-series flow:
 
 ---
 
-## 📚 License & Usage
-
-This Node-RED integration template is provided as a **reference implementation** for Propvalue partners and customers integrating with **Larmia**.  
-You’re free to adapt, extend, and deploy it in your own environments, subject to your internal policies and agreements.
