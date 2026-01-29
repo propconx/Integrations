@@ -344,10 +344,4 @@ Once deployed and configured:
 
 ---
 
-## 📚 License & Support
 
-This Node‑RED integration template is provided as a **reference implementation** for Propvalue partners and customers.  
-You may freely modify, extend, and deploy it in production environments.  
-Support and maintenance are available according to customer agreements.
-
-© Propvalue AB – All rights reserved.
