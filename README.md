@@ -161,18 +161,3 @@ Each integration’s documentation contains **step-by-step deployment instructio
 - No customer-specific data is included in this repository
 
 ---
-
-## 📚 License & Usage
-
-This repository is provided as a **public reference implementation** by **PropConX**.
-
-You are free to:
-- Study the flows
-- Adapt them for your environment
-- Build derivative integrations
-
-Subject to your commercial agreement with PropConX.
-
----
-
-© PropConX
