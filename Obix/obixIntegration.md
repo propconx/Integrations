@@ -301,9 +301,4 @@ Both filters are **stateful and restart-safe**.
 
 ---
 
-## 📚 License
 
-This Node-RED OBIX integration template is provided as a **reference implementation** for Propvalue integrations.
-You may adapt and deploy it according to internal agreements.
-
-© Propvalue AB
