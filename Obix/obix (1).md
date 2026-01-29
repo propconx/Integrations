@@ -44,7 +44,7 @@ All flows read connection details, identifiers, and runtime parameters from `glo
 ```json
 {
   "scheme": "https",
-  "host": "10.104.0.43",
+  "host": "10.100.0.10",
   "port": 443,
   "user": "apiuser",
   "pass": "secret",
@@ -75,7 +75,7 @@ All flows read connection details, identifiers, and runtime parameters from `glo
 ```javascript
 const cfg = {
   scheme: "https",
-  host: "10.104.0.43",
+  host: "10.100.0.10",
   port: 443,
   user: "apiuser",
   pass: "secret",
